@@ -21,3 +21,15 @@ I cant say yes or no, you should maybe try and make them only one, Lambda brings
 And if you prefer StressClient, You can always use only our client 	ヽ(♡‿♡)ノ
 
 - From ValiryDev
+
+# How can i join your community?
+
+Well, user.
+
+You can join our Discord, as always joining is voluntary! But it will give me more motivation, so anyways thanks!
+
+Discord Link: https://discord.gg/n34HbJuuSu
+
+# Where can i download it?
+
+Currently its in development, thanks for your patience!
