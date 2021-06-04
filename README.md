@@ -32,4 +32,4 @@ Discord Link: https://discord.gg/n34HbJuuSu
 
 # Where can i download it?
 
-Currently its in development, thanks for your patience!
+We currently have released our first build!, you can check it out on the releases section.
