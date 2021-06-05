@@ -1,6 +1,17 @@
 # StressClientク
 We serve what people wants.
 
+# Upcoming releases plans?
+
+Yeah, take a look at the 2.38.xx-dev release plans!
+
+- Fully library of capes.
+
+- Easily ways to get special capes such as joining discord and getting giveaways or just joining discord, and getting 5 levels with MEE6 (The levels are not planned, neither we dont have any bot yet.)
+
+- Cape System Remasterization.
+
+- The update name will be: Cape Update
 
 # What is our goal?
 
