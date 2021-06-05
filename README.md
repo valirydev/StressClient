@@ -13,6 +13,11 @@ Yeah, take a look at the 2.38.xx-dev release plans!
 
 - The update name will be: Cape Update
 
+
+# I crashed?
+
+Yeah i've had that problem im trying to fix it, it seems it doesnt support viaversion servers, im taking a look into it.
+
 # What is our goal?
 
 Well, i will present myself, i always wanted to be a programmer and here i am working on this, this is a Minecraft Utility Mod, for Anarchy Servers.
